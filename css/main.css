@@ -1,0 +1,57 @@
+body {
+	background-color: #999999;
+	color: #111111;
+	font-family: Georgia, 'Times New Roman', Times, serif;
+	font-size: 16px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	color: rgba(145, 91, 199, 1.0);
+	font-family: Raleway, Helvetica, Arial, sans-serif;
+	font-weight: 900;
+	text-transform: uppercase;
+	font-size: 20px;
+}
+.home h1 {
+	font-size: 96px;
+}
+.contact h1 {
+	font-size: 200px;
+}
+h2 {
+	font-size: 32px;
+}
+h3 {
+	font-size: 24px;
+}
+
+a {
+	text-decoration: none;
+	color: red;
+}
+
+
+.home section {
+	background-color: #74B8A7;
+}
+
+h1.lighten {
+	background-color: #BBBBBB;
+}
+
+.ulined {
+	border-bottom: 3px solid #000000;
+}
+
+article > header > img {
+	border: 5px double #000000;
+}
+
+
+
+
+
+
+
+
+
